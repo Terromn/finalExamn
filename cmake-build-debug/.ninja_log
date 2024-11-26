@@ -1,0 +1,9 @@
+# ninja log v6
+3	668	1732631952137882171	CMakeFiles/finalBoringExam.dir/CompanyAsset/CompanyAsset.cpp.o	63310bb87f2b9c4b
+3	702	1732631952138014755	CMakeFiles/finalBoringExam.dir/Staff/Staff.cpp.o	d8e311f8dd476365
+3	703	1732631952137718920	CMakeFiles/finalBoringExam.dir/Car/Car.cpp.o	83b179969ca0221e
+1	721	1732631952136475580	CMakeFiles/finalBoringExam.dir/main.cpp.o	9670dfa372a11c83
+3	752	1732631952138138506	CMakeFiles/finalBoringExam.dir/RentalSystem/RentalSystem.cpp.o	d42c73a183530ae0
+752	930	1732631952886912442	finalBoringExam	a4dc35661a3f7db7
+8	802	1732632144234327128	CMakeFiles/finalBoringExam.dir/main.cpp.o	9670dfa372a11c83
+802	987	1732632145028427863	finalBoringExam	a4dc35661a3f7db7
